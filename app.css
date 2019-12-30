@@ -1,0 +1,17 @@
+header, footer {
+    background-color: orange;
+}
+h3 , h2 , h1{
+    font-family: Impact;
+    font-size: 40px;
+}
+p {
+    font-size: 40px;
+    font-family: Arial;
+}
+footer {
+    font-size: 30px;
+}
+#kuva {
+    border-radius: 60px;
+}
